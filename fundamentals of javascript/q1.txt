@@ -1,0 +1,19 @@
+Javascript is a high level,interpreted programming language that is one of the core technologies of
+the www,alongside of HTML,CSS.
+Javascript is:
+1.Dyanamic language
+2.Prototype Based
+3.Event driven and asynchronous
+4.Interpreted language
+
+Role in Web Development:
+
+Client-side Scripting:
+1.Interactivity:Javascript is primarily used to make web pages interactive.
+                includes form validation,dynamic content updates,animation
+                and handling user events like clicks and keyboard input.
+Server-side Development:
+1.Node.js:Javascript is also used in sever side thanks to node.js which provide 
+          a runtime environment that allows js to bs executed on server.
+Front-end Development:
+1.User interface
