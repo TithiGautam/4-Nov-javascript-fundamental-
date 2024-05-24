@@ -1,0 +1,16 @@
+Importance of comments:
+
+comments are important because it increases the readability of code.
+If new person is working on someones project the comment will help him 
+know whats the code is about.It is helpful in understandind the code or program.
+
+Single line comment:
+
+// any text following this is ignored by Javascript.
+eg:let y = 10;//here declaring value of y
+
+Multiple line comments:
+
+/*Multiple line comments are enclosed within this
+hey there this is multiple line comment example
+more than one line are written*/

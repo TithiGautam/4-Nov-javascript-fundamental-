@@ -1,0 +1,10 @@
+Precedence and Associativity
+
+Precedence tells the priority of operators and Associativity defines the direction in which operators 
+of the same Precedence level are processed.
+
+Understanding this concept helps write more predictable and error free code,ensuring that
+operations are performed in the intende order.
+
+
+

@@ -1,0 +1,59 @@
+Categorization of operators in javascript:
+
+1. Arithmetic operators: they are used for solving arithmetic problems.
+
+a.Addition(+) : x+y
+b.Substration(-) : x-y
+c.Multiplication(*)  : x*y
+d.Division(/) : x/y
+e.Modulus(%)  : x%y
+f.Exponentiation(**) : raises the power x**y 
+g.Increament(++)  : x++
+h.Decreament(--)  : y--
+
+2.Assignment operator:
+
+a. = : x=y(assigning a value to a variable)
+b. += : adds a value to a variable x += y
+c. -= : x -= y 
+d. *= : x *= y 
+e. /= : x /= y 
+f. %= : x %= y 
+g. **= : x **= y
+
+3.Comparision operator:
+
+a.==
+b.!=
+c.===
+d.!==
+e.<
+f.>
+g.<=
+h.>=
+
+4.Logical operator:
+
+a.&& : return true if both operands are true.
+b.OR(||) : returns true is at least one operand is true.
+c.(!)Not 
+
+5.Bitwise operator:
+
+a.AND(&) 
+B.OR(|)
+C.NOT(~)
+D.XOR(^)
+E.LEFT SHIFT(<<)
+F.RIGHT SHIFT(>>)
+G.UNSIGNED RIGHT SHIFT(>>>)
+
+6.String operators(concatination)
+
+7.Ternary(contition?1:2)
+
+8.Typeof operator
+
+9.Instanceof
+
+10.unary operator

@@ -1,0 +1,17 @@
+Purpose of declaring variable in Javascript:
+
+1.For storing data values that can be reused and manipulated during the program.
+
+2.Improves readaility
+
+3.Avoiding repetation
+
+4.Dynamic data handling
+
+Declaring variable using let Keyword:
+
+let Keyword is used to declare blosj scope variables
+it can ve access withi the scope in which it is declared
+
+let name = value;
+let x =20;

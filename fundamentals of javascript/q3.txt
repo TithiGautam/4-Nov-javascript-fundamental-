@@ -1,0 +1,16 @@
+Five Primitive data type in Javascript:
+
+1.String:represent group of character enclosed within " ".
+ex:"hello","world"
+
+2.Number: Both integer and flosting point
+eg: 12,1.2
+
+3.Boolean: represent logical values
+eg: true,false
+
+4.Undefined: represent that a variable is declared but not assign any value.
+eg: let x;
+    
+5.Null: here intensionally the value is not assigned.
+eg: let x = null;

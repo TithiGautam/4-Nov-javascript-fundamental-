@@ -1,0 +1,12 @@
+Key difference between html and Javascript:
+
+HTML stands for hyper text markup language ,it is used for structuring the web pages
+it uses tags for the creating the structure of web page,HTML alone cannot create 
+dynamic web page it is used for static web page
+
+While Javascript is also called scripting language is uesd to create interactive 
+and dynamic elements on web pages.
+
+It provides funtionality to HTML elements by responding to user actions like clicks,
+form submission and more.
+its syntax is <script> tag

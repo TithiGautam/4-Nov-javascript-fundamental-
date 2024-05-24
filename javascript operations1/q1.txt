@@ -1,0 +1,11 @@
+Role of operators in javascript:
+
+Operators in javascript are used for solving many problems in javascript
+
+1 Arithmetic problems: It solves the problems related to calculation .
+2.decision making: for comparing the values there are operators that help in making comparision to 
+give the desired answer.
+
+They are very essential for programming because there are times when there is need
+for performing logical operations any many such operations so operators solves number 
+of problems .

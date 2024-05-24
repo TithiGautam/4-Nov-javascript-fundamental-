@@ -1,0 +1,16 @@
+Unary Binary and Ternary operators
+
+Unary operates on single operand
+
+eg: let x = "5"
+        y = +x // it changes x to number 
+        y = -x // -5
+    (increament,Decreament,typeof etc are unary operator)
+
+Binary operates on two operands
+
+eg: comparision operator,logical operator,arithmetic operators etc.
+
+Ternary operates on three operands
+
+eg: 5>6 ? "hii" : "hello"

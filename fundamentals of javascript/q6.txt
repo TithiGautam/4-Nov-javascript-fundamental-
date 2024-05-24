@@ -1,0 +1,12 @@
+Choosing descriptive and meaningful name in Javascript:
+
+It is importamt to choose meaningful and descriptive name to increase the readability of code
+and your program can be easily understand by the other person.
+
+Example:
+
+let FirstName = "Rohit"
+let LastName = "Shetty"
+let a = 10;
+let b = 20;
+let calculate_sum = a + b;//here we can understand by calculate sum that we are calculatin sum.
